@@ -134,7 +134,6 @@ export const DATA = {
       //   },
       // ],
       image: "/resourcex.png",
-      video: undefined,
       // video:
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
