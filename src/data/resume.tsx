@@ -133,9 +133,10 @@ export const DATA = {
       //     icon: <Icons.globe className="size-3" />,
       //   },
       // ],
-      image: "/resourcex.png",
-      // video:
-      //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        image: "/resourcex.png",
+        video: undefined,
+        // video:
+        //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
       title: "Magic UI",
@@ -200,6 +201,7 @@ export const DATA = {
         },
       ],
       image: "/technovate.png",
+      video: undefined,
       // video: "https://cdn.llm.report/openai-demo.mp4",
     },
     {
@@ -217,6 +219,7 @@ export const DATA = {
         "Shadcn UI",
         "Magic UI",
       ],
+      links: [],
       // links: [
       //   {
       //     type: "Website",
@@ -225,6 +228,7 @@ export const DATA = {
       //   },
       // ],
       image: "/jungle.png",
+      video: undefined,
       // video:
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
