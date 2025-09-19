@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Alisha Tripathi",
   initials: "",
-  url: "https://dillion.io",
+  url: "https://alisha-portfolio.vercel.app",
   location: "India",
   locationLink: "https://www.google.com/maps/place/india",
   description:
@@ -46,14 +46,14 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "",
         icon: Icons.youtube,
         navbar: true,
       },
@@ -187,7 +187,6 @@ export const DATA = {
         "Shadcn UI",
         "Magic UI",
         "Stripe",
-        "Cloudflare Workers",
       ],
       links: [
         {
@@ -201,37 +200,34 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      image: "/technovate.png",
+      // video: "https://cdn.llm.report/openai-demo.mp4",
     },
     {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
+      title: "Jungle Safari-Smart Inventory Management System",
+      href: "",
       dates: "April 2023 - March 2024",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "ungle Safari Naya Raipur was our hackathon sponsor at that time where we build an Inventory Management system an e-commerce marketplace , AI powered  sentiment Analysis of user feedback, also key feature as VR store version of E-commerce marketplace",
       technologies: [
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "MongoDB",
         "TailwindCSS",
         "Shadcn UI",
         "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
       ],
-      links: [
-        {
-          type: "Website",
-          href: "https://automatic.chat",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+      // links: [
+      //   {
+      //     type: "Website",
+      //     href: "https://automatic.chat",
+      //     icon: <Icons.globe className="size-3" />,
+      //   },
+      // ],
+      image: "/jungle.png",
+      // video:
+      //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
   ],
   hackathons: [
